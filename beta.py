@@ -3,3 +3,7 @@
 
 def contribution():
     return 2
+
+
+def scaled(multiplier):
+    return contribution() * multiplier
